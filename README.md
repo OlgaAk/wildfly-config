@@ -9,4 +9,8 @@ files in deployment folder:
 run command 
 ./standalone.sh -c standalone-full.xml    
 
+activemq
+command ./activemq start
+admin http://127.0.0.1:8161/index.html
+
 
